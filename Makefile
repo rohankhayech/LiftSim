@@ -1,3 +1,5 @@
+# Copyright (c) 2020 Rohan Khayech
+
 # Makefile for the Lift Sim.
 # Includes make targets for both Part A and Part B.
 # See readme.txt for instructions on how to compile using make.

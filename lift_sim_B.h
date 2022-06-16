@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2020 Rohan Khayech
+ */
+
 /* Lift Sim B Header File */
 /* Defines the main method declarations struct used for shared memory.*/
 

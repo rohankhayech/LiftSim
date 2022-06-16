@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2020 Rohan Khayech
+ */
+
 /* Lift Sim Header File */
 /* Defines the lift and lift request struct and declares common functions for both Part A and Part B to avoid duplication of code. */
 

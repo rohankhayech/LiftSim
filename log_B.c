@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2020 Rohan Khayech
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

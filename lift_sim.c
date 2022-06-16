@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2020 Rohan Khayech
+ */
+
 /* Lift Sim C File */
 /* Contains common functions for both Part A and Part B to avoid duplication of code. */ 
 

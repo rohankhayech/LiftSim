@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2020 Rohan Khayech
+ */
+
 /* Lift Sim A C File*/
 /* Implementation of the main functions for Part A using threads. */
 

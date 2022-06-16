@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2020 Rohan Khayech
+ */
+
 /* Lift Sim A Header File */
 /* Defines the main method declarations and the outputLock as this is used in log_A.c */
 

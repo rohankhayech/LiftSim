@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2020 Rohan Khayech
+ */
+
 /* Log Header File */
 /* Header file for both log_A.c and log_B.c */
 /* Both files have the same method declarations, but different implementations */
